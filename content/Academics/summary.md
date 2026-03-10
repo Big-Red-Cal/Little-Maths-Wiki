@@ -3,11 +3,9 @@ title: "Academics: Summary"
 description: Summary - Academics
 ---
 # Summary of Academics
-
 This page is a temporary dump of the various academics that I have information on. It will be improved in time.  
 
 ## Links to Books
-
 Any links to books will point to [Bookshop.org](https://uk.bookshop.org/) in order to promote the support of local bookshops.  
   
 ## Craig Barton

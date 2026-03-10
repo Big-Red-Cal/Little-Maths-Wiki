@@ -32,5 +32,6 @@
 |    Ten Quadrillion    |  10,000,000,000,000,000   | 1 x 10<sup>16</sup> |            |                                                   |                                   |                                  |                                |                                |                                     |                                         |
 |  Hundred Quadrillion  |  100,000,000,000,000,000  | 1 x 10<sup>17</sup> |            |                                                   |                                   |                                  |                                |                                |                                     |                                         |
 |      Quintillion      | 1,000,000,000,000,000,000 | 1 x 10<sup>18</sup> |  Trillion  |                                                   |             exa<br>E              |          exametre<br>Em          |                                |                                |                                     |                                         |
+
 \*<sup>1</sup> It is common to keep counting up in hundreds, using "10 -> 99  hundred" to refer to "1000 -> 9900"
 \*<sup>2</sup> Grand is used when discussing currency, implying that the number is in units of £ or $ for example
