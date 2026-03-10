@@ -1,3 +1,6 @@
+---
+title: Base 10
+---
 # Decimal - Base 10 & Metric Units
 
 0 1 2 3 4 5 6 7 8 9
@@ -33,5 +36,5 @@
 |  Hundred Quadrillion  |  100,000,000,000,000,000  | 1 x 10<sup>17</sup> |            |                                                   |                                   |                                  |                                |                                |                                     |                                         |
 |      Quintillion      | 1,000,000,000,000,000,000 | 1 x 10<sup>18</sup> |  Trillion  |                                                   |             exa<br>E              |          exametre<br>Em          |                                |                                |                                     |                                         |
 
-\*<sup>1</sup> It is common to keep counting up in hundreds, using "10 -> 99  hundred" to refer to "1000 -> 9900"
-\*<sup>2</sup> Grand is used when discussing currency, implying that the number is in units of £ or $ for example
+- \*<sup>1</sup> It is common to keep counting up in hundreds, using "10 -> 99  hundred" to refer to "1000 -> 9900"
+- \*<sup>2</sup> Grand is used when discussing currency, implying that the number is in units of £ or $ for example
