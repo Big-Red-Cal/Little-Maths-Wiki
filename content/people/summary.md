@@ -1,6 +1,6 @@
 ---
-title: "People: Summary"
-description: Summary - Academics
+title: "Summary: People"
+description: Summary - People
 ---
 # Summary of People
 This page is a temporary dump of the various people working the field that I have found information on. It will be improved in time.  
@@ -36,7 +36,7 @@ Maintains a selection of websites which provide a variety resources offering al
 - [Goal Free Problems](https://goalfreeproblems.blogspot.com/) - Questions with specific goals removed. Learners calculate what they can.  
 
 ## [[Jo Morgan]]  
-Maintains the [Resourceaholic website](https://www.resourceaholic.com/) and the author of [A Compendium of Mathematical Methods](https://uk.bookshop.org/p/books/a-compendium-of-mathematical-methods-a-handbook-for-school-teachers-joanne-morgan/4170502?ean=9781912906604&next=t), an excellent collection of methods to carry out various mathematical operations.  
+Maintains the [Resourceaholic website](https://www.resourceaholic.com/) and the author of [A Compendium of Mathematical Methods](https://uk.bookshop.org/p/books/a-compendium-of-mathematical-methods-a-handbook-for-school-teachers-joanne-morgan/4170502?ean=9781912906604&next=t), an excellent collection of methods to carry out various mathematical operations. 
 ### Website:  
 - [Resourceaholic](https://www.resourceaholic.com/)  
 ### Selected Works:
