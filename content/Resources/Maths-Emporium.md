@@ -1,6 +1,5 @@
 ---
 title: Maths Emporium
-draft: "false"
 ---
 Maths Emporium is a resource provided by Pearson-Edexcel, for centres delivering their maths qualifications.
 
