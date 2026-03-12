@@ -1,0 +1,58 @@
+---
+title: Maths Emporium
+draft: "false"
+---
+Maths Emporium is a resource provided by Pearson-Edexcel, for centres delivering their maths qualifications.
+
+There's an abundance of useful resources on there; from exam material such as [[mock papers]],  [[past papers]], [[shadow papers]], [[model solves]], and other varying forms of [[practice papers]]; to class materials, such as [[worksheets]], [[starter activities]] and [[posters]]; to CPD resources, such as "tea-break" [[training videos]], [[marking guides]], and other [[training materials]].
+
+## Access
+
+This resource is accessed through a [[Pearson-Edexcel account]], and so you will need to liaise with the person within your organisation who manages these accounts. This may be an exams administrator, or it may be a member of the leadership team.
+
+## Navigation
+
+Because there is so much on the site, it can be easy to miss what is available. Things are laid out neatly into categories, but you have to click into a category to see what's on offer.
+
+To make things a bit more straightforward, I've started to map it out below, though this may quickly become just as unwieldy.
+
+>[!example]+ Maths Emporium
+>>[!example]- [Advanced Extension Award Mathematics](https://mathsemporium.com/category/advanced-extension-award-mathematics/)
+>> Link 1
+>
+>>[!example]- [Edexcel Awards](https://mathsemporium.com/category/edexcel-awards/)
+>>> Link 1
+>
+>>[!example]- [Entry Level Certificate](https://mathsemporium.com/category/entry-level-certificate/)
+>>> Link 1
+> 
+>>[!example]- [Functional Skills Mathematics](https://mathsemporium.com/category/functional-mathematics/)
+>>> Link 1
+> 
+>>[!example]- [GCE A level Statistics](https://mathsemporium.com/category/gce-a-level-statistics/)
+>>> Link 1
+>
+>>[!example]- [GCE AS/A level Further Mathematics](https://mathsemporium.com/category/gce-as-a-level-further-mathematics/)
+>>> Link 1
+>
+>>[!example]- [GCE AS/A level Mathematics](https://mathsemporium.com/category/gce-as-a-level-mathematics/)
+>>> Link 1
+>
+>>[!example]- [GCSE Mathematics](https://mathsemporium.com/category/gcse-mathematics/)
+>>> Link 1
+>
+>>[!example]- [GCSE Statistics](https://mathsemporium.com/category/gcse-statistics/)
+>>> Link 1
+>
+>>[!example]- [International AS/A Level Mathematics](https://mathsemporium.com/category/international-as-a-level-mathematics/)
+>>> Link 1
+>
+>>[!example]- [International GCSE Mathematics](https://mathsemporium.com/category/international-gcse-mathematics/)
+>>> Link 1
+>
+>>[!example]- [Level 2 Extended Mathematics Certificate](https://mathsemporium.com/category/level-2-extended-mathematics-certificate/)
+>>> Link 1
+>
+>>[!example]- [Level 3 Core Maths (Mathematics in Context) – Maths Emporium](https://mathsemporium.com/category/level-3-core-maths-mathematics-in-context/)
+>>> Link 1
+>
