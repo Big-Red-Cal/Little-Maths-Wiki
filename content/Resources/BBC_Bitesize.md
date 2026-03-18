@@ -1,9 +1,7 @@
-[BBC Bitesize]([Home - BBC Bitesize](https://www.bbc.co.uk/bitesize), often referred to just as *Bitesize*, provides online study support for a large range of qualifications across Key Stages 1 to 3 and GCSE, including maths. It is maintained by the [[BBC]]
+[BBC Bitesize](https://www.bbc.co.uk/bitesize), often referred to just as *Bitesize*, provides online study support for a large range of qualifications across Key Stages 1 to 3 and GCSE, including maths. It is maintained by the [[Organisations/BBC|BBC]]
 
-[See the Wikipedia article for more information]([BBC - Wikipedia](https://en.wikipedia.org/wiki/BBC_Bitesize))
-
+[See the Wikipedia article for more information](https://en.wikipedia.org/wiki/BBC_Bitesize)
 # Resources
-
 ## Teaching
 Various resources including videos and interactive articles. The majority of the maths content appears to be playlists of clips from various educational tv shows. 
 - [Resources for Teaching Primary Maths](https://www.bbc.co.uk/teach/topics/ce9p6kx7n25t)
