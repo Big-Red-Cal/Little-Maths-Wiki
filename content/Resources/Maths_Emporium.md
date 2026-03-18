@@ -3,11 +3,11 @@ title: Maths Emporium
 ---
 Maths Emporium is a resource provided by Pearson-Edexcel, for centres delivering their maths qualifications.
 
-There's an abundance of useful resources on there; from exam material such as [[mock papers]],  [[past papers]], [[shadow papers]], [[model solves]], and other varying forms of [[practice papers]]; to class materials, such as [[worksheets]], [[starter activities]] and [[posters]]; to CPD resources, such as "tea-break" [[training videos]], [[marking guides]], and other [[training materials]].
+There's an abundance of useful resources on there; from exam material such as [[Resources/By_Type/Mock_Papers|mock_papers]],  [[Resources/By_Type/Past_Papers|past papers]], [[shadow papers]], [[Resources/By_Type/Model_Solves|model solves]], and other varying forms of [[Resources/By_Type/Practice_Papers|practice papers]]; to class materials, such as [[worksheets]], [[Resources/By_Type/Starters_and_Plenaries|starter activities]] and [[posters]]; to CPD resources, such as "tea-break" [[Resources/By_Type/Videos|training videos]], [[Resources/By_Type/Marking_Guides|marking guides]], and other [[training materials]].
 
 ## Access
 
-This resource is accessed through a [[Pearson-Edexcel account]], and so you will need to liaise with the person within your organisation who manages these accounts. This may be an exams administrator, or it may be a member of the leadership team.
+This resource is accessed through a [[Organisations/Awarding_Organisations/Pearson-Edexcel#Accounts|Pearson-Edexcel account]], and so you will need to liaise with the person within your organisation who manages these accounts. This may be an exams administrator, or it may be a member of the leadership team.
 
 ## Navigation
 
