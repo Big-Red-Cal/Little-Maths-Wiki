@@ -12,15 +12,7 @@ This list will be expanded and refined so make sure to check back in to see what
 ### Education and Learning
 
 #### [BBC Bitesize](https://www.bbc.co.uk/bitesize)
-- [Secondary Maths Teaching Resources](https://www.bbc.co.uk/teach/topics/cpvpg7xl4vet)
-	- Video playlists on various topics.
-- [GCSE Maths Revision](https://www.bbc.co.uk/bitesize/articles/zpy6fdm#zsfv8p3)
-	- Exams and quizzes, flash cards and study guides.
-- [GCSE Maths - Edexcel - BBC Bitesize](https://www.bbc.co.uk/bitesize/examspecs/z9p3mnb)
-	- A variety of resources. Scroll down for revision guides.
-- [Functional Skills](https://www.bbc.co.uk/bitesize/levels/zvhtng8)
-- [Post-16](https://www.bbc.co.uk/bitesize/post-16)
-	- Some examples of maths in the workplace.
+
 
 #### [Corbett Maths](https://corbettmaths.com/)
 - Videos and practice questions on the GCSE maths curriculum.
