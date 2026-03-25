@@ -23,7 +23,7 @@ Known for works on assessment for learning, specifically "Visible Learning."
 - [Visible Learning](https://visible-learning.org/)  
 
 ## [[Peter Mattock]]
-Maintains a selection of websites which provide a variety resources offering alternate approaches to teaching maths.  
+Maintains a selection of websites which provide a variety of resources offering alternate approaches to teaching maths.  
 ### Website:  
 - [Visible Maths](https://peter-mattock.visiblemaths.co.uk/)  
 ### Selected Works:  
