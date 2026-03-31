@@ -37,7 +37,7 @@
     "quartz": "./quartz/bootstrap-cli.mjs"
   },
   "dependencies": {
-    "@clack/prompts": "^1.1.0",
+    "@clack/prompts": "^1.2.0",
     "@floating-ui/dom": "^1.7.4",
     "@myriaddreamin/rehype-typst": "^0.6.0",
     "@napi-rs/simple-git": "0.1.22",
@@ -50,7 +50,7 @@
     "esbuild-sass-plugin": "^3.6.0",
     "flexsearch": "^0.8.205",
     "github-slugger": "^2.0.0",
-    "globby": "^16.1.0",
+    "globby": "^16.2.0",
     "gray-matter": "^4.0.3",
     "hast-util-to-html": "^9.0.5",
     "hast-util-to-jsx-runtime": "^2.3.6",
@@ -62,12 +62,12 @@
     "mdast-util-to-hast": "^13.2.1",
     "mdast-util-to-string": "^4.0.0",
     "micromorph": "^0.4.5",
-    "minimatch": "^10.1.1",
-    "node-addon-api": "^8.6.0",
+    "minimatch": "^10.2.5",
+    "node-addon-api": "^8.7.0",
     "node-gyp": "^12.2.0",
     "pixi.js": "^8.17.1",
     "preact": "^10.29.0",
-    "preact-render-to-string": "^6.6.5",
+    "preact-render-to-string": "^6.6.7",
     "pretty-bytes": "^7.1.0",
     "pretty-time": "^1.1.0",
     "reading-time": "^1.5.0",
@@ -93,7 +93,7 @@
     "shiki": "^4.0.2",
     "source-map-support": "^0.5.21",
     "to-vfile": "^8.0.0",
-    "toml": "^3.0.0",
+    "toml": "^4.0.1",
     "unified": "^11.0.5",
     "unist-util-visit": "^5.1.0",
     "vfile": "^6.0.3",
@@ -114,6 +114,6 @@
     "prettier": "^3.8.1",
     "tsx": "^4.21.0",
     "typescript": "^6.0.2",
-    "wrangler": "^4.77.0"
+    "wrangler": "^4.79.0"
   }
 }
