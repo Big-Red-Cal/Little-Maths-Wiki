@@ -18,9 +18,19 @@ To make things a bit more straightforward, I've started to map it out below, tho
 >[!note]
 > These are just the top-level links at the moment as I was testing to see how the nesting works with the dropdown. I will work to get the GCSE links done first but will likely not get back to it until I have some other bits set up.
 
+>[!info] Update: Math Emporium is moving
+> I'm glad I didn't invest too much time in actually doing this as it would seem that the emporium is moving.
+> 
+> It will be moving to "ActiveHub"
+> 
+> [Maths Emporium is moving | Pearson qualifications](https://qualifications.pearson.com/en/campaigns/maths-emporium-move-to-activehub.html)
+> 
+> ![](https://youtu.be/dgRepbH0K2M?si=pqq7U25KVnYZKgPh)
+
+
 >[!example]+ Maths Emporium
 >>[!example]- [Advanced Extension Award Mathematics](https://mathsemporium.com/category/advanced-extension-award-mathematics/)
->> Link 1
+>>> Link 1
 >
 >>[!example]- [Edexcel Awards](https://mathsemporium.com/category/edexcel-awards/)
 >>> Link 1
